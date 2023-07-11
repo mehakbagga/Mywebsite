@@ -13,7 +13,7 @@ const ProjectCardData = [
                 <p>RubyonRails, ERB, Bootstrap, PostgreSQL</p>
             </span>),
         view: "https://www.youtube.com/watch?v=sMqee24ct54",
-        source: "https://github.com/mehakbagga/Homemade_Meals"
+        source: "https://github.com/mehakbagga/HomeMade-Meal"
     },
     {
         imgsrc: pro2,
