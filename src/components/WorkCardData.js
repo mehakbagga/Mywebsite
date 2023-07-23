@@ -1,6 +1,7 @@
 import pro1 from "../assets/Delish2.png"
 import pro2 from "../assets/Hangman.png"
 import pro3 from "../assets/SociallySocial.jpg"
+import pro4 from "../assets/AuctionWelcomePage.png"
 
 const ProjectCardData = [
     {
@@ -42,6 +43,19 @@ const ProjectCardData = [
         ),
         view: "https://youtu.be/3fDrIYh2hhc",
         source: "https://github.com/mehakbagga/Hangman"
+    },
+    {
+        imgsrc: pro4,
+        title: "Biddr",
+        text: (
+            <span>
+            Biddr is an auction app that allows users to create auctions and place bids. Users can see the current highest price and if the reserve price is met.
+                <p></p>
+                <strong>Stack:</strong>
+                <p>Ruby on Rails, React.js, Bootstrap, HTML, CSS, Javascript, PostgreSQL</p>
+            </span>
+        ),
+        source: "https://github.com/mehakbagga/Biddr"
     }
 ]
 
